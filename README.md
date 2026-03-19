@@ -12,20 +12,6 @@ Este repositório contém o material prático, notebooks de experimentos e proje
 
 ---
 
-## 📂 Estrutura do Repositório
-
-O repositório está organizado por tópicos abordados em aula:
-
-| Pasta | Descrição | Status |
-| :--- | :--- | :---: |
-| `01-fundamentos/` | Revisão de Python, NumPy e Pandas para IA. | ✅ |
-| `02-supervisionado/` | Regressão Linear, Árvores de Decisão e SVM. | 🏗️ |
-| `03-nao-supervisionado/` | K-Means e Análise de Componentes Principais (PCA). | 📅 |
-| `04-redes-neurais/` | Introdução ao TensorFlow e Keras. | 📅 |
-| `projeto-final/` | Desenvolvimento do projeto prático da disciplina. | 📅 |
-
----
-
 ## 🚀 Como usar este repositório no Google Colab
 
 A forma mais fácil de executar os notebooks é diretamente via Google Colab:
@@ -54,4 +40,3 @@ A forma mais fácil de executar os notebooks é diretamente via Google Colab:
 Este projeto é para fins acadêmicos. Sinta-se à vontade para usar os exemplos como referência para seus estudos.
 
 ---
-*Dúvidas ou sugestões? Entre em contato via [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI) ou abra uma Issue!*
